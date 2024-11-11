@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bhaskar Subedi</h1>
 <h3 align="center">Passionate about building innovative solutions that merge AI, data science, and software development.</h3>
 
-<img align ="right" alt ="coding" width="400" src ="[https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif?format=1000w](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Felnurxo%2Felnurxo%2Fblob%2Fmain%2FREADME.md&psig=AOvVaw1WrhWfsnS71tSL-dRLIZVB&ust=1731401099088000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqGAoTCIi3o-3x04kDFQAAAAAdAAAAABDQAQ)">
+<img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaskar11&label=Profile%20views&color=0e75b6&style=flat" alt="vaskar11" /> </p>
 
